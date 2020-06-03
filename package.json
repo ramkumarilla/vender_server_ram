@@ -4,12 +4,7 @@
   "description": "Sample CRUD Application for Medium Post",
   "main": "app.js",
   "scripts": {
-   “scripts”: {
-
         "run": "node app.js"
-  
-  
-      },
   },
   
   "keywords": [
