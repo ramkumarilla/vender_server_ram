@@ -4,7 +4,12 @@
   "description": "Sample CRUD Application for Medium Post",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   “scripts”: {
+
+        "run": "node app.js"
+  
+  
+      },
   },
   
   "keywords": [
