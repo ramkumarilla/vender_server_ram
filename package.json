@@ -1,5 +1,5 @@
 {
-  "name": "vendor-crud-sample",
+  "name": "vender_server_ram",
   "version": "1.0.0",
   "description": "Sample CRUD Application for Medium Post",
   "main": "app.js",
